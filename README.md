@@ -1,4 +1,4 @@
-# SimOn-Line_ClassProject
+# SimOn-Line_CourseWork_Repo
 
 <p>My completed course project of the game <b>Simon</b> <br>
 <pre><i>a Web developer course from <b>The App Brewery</b></i></pre></p>
@@ -11,7 +11,7 @@
   <li> HTML</li>
 </ul>
 
-<a href="https://jimbrayrcp.github.io/SimOn-Line_ClassProject/"><h2>Click Here to View Project</h2></a>
+<a href="https://jimbrayrcp.github.io/SimOn-Line_CourseWork_Repo/"><h2>Click Here to View Project</h2></a>
 
 <hr>
 
